@@ -11,8 +11,9 @@ body {
 }
 
 .question {
-    margin-left: 80%;
-    bottom: 50%;
+    position: relative;
+    top: -20px;
+    left: 60%;
 }
 
 .titulo {
@@ -23,8 +24,10 @@ body {
 .ema, .sen {
     margin-left: 6%;
     width: 320px;
-    padding: 4px;
+    padding: 8px;
     margin-bottom: 3%;
+    border: 1px solid gray;
+    border-radius: 4px;
 }
 
 .rodape-pagina {
@@ -45,10 +48,12 @@ right: 0;
 height: 100px;
 width: 100%;
 border-top: 1px solid white;
-justify-content:center;
+justify-content: left;
 align-items:center;
 color: gray;
 gap: 7px;
+text-align: right;
+margin-left: 5%;
 }
 
 .msn-logo {
@@ -62,14 +67,29 @@ gap: 7px;
 }
 
 button {
-    margin-right: 10%;
+    margin-right: 7%;
+    border: 4px solid aliceblue;
+    background-color: #e6e6e7;
+    font-size: 20px;
+    border-radius: 8px;
 }
-
 
 .entrar-como {
     text-align: left !important;
     margin-left: 29%;
 }
+
+.recup-senha {
+    margin-right: 18%;
+}
+
+select {
+    border: none;
+    background-color: transparent;
+}
+
+
+
 
 
 
