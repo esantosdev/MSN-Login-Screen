@@ -3,6 +3,6 @@ Tentativa de copiar a tela de LOGIN do Windows Live Messenger <br>
 
 É um mini projeto PRÓPRIO, e ainda estou melhorando alguns pontos!! <br>
 
-[![Captura-de-tela-em-2021-12-29-16-46-25.png](https://i.postimg.cc/76DSLrPk/Captura-de-tela-em-2021-12-29-16-46-25.png)](https://postimg.cc/5H7XPGF7)
+[![Captura-de-tela-em-2021-12-29-17-08-22.png](https://i.postimg.cc/4Nb0BsMD/Captura-de-tela-em-2021-12-29-17-08-22.png)](https://postimg.cc/fJy5bnMC)
 
 
