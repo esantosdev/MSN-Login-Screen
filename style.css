@@ -1,0 +1,73 @@
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+    
+}
+
+body {
+    background: linear-gradient(180deg, #afe7f9, #bbeafa, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff);
+    font-family: Arial, Helvetica, sans-serif;
+    border: 5px solid black;
+}
+
+.question {
+    margin-left: 80%;
+}
+
+.titulo {
+    font-weight: 150;
+    margin-left: 2%;
+}
+
+.rodape {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+
+.ema, .sen {
+    margin-left: 6%;
+    width: 320px;
+    padding: 4px;
+    margin-bottom: 3%;
+}
+
+.rodape-pagina {
+    display: flex;
+}
+
+p, a {
+    text-align: center;
+    margin-right: 5%;
+}
+
+.row {
+    display: flex;
+    margin: 0 auto;
+} 
+
+.rodape {
+display:flex;
+background-color: white;
+bottom: 0;
+left: 0;
+right: 0;
+height: 100px;
+width: 100%;
+border-top: 1px solid white;
+justify-content:center;
+align-items:center;
+color: black;
+}
+
+.msn-logo {
+    margin-left: 70%;
+    margin-bottom: 80%;
+}
+
+.conteudo {
+     margin-bottom: 25%;
+}
+
+
+
