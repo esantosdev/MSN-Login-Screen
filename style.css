@@ -20,12 +20,6 @@ body {
     margin-left: 2%;
 }
 
-.rodape {
-    display: flex;
-    flex-direction: row;
-    gap: 5px;
-}
-
 .ema, .sen {
     margin-left: 6%;
     width: 320px;
@@ -70,6 +64,8 @@ color: gray;
 .conteudo {
      margin-bottom: 25%;
 }
+
+
 
 
 
