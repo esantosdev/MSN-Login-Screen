@@ -31,14 +31,9 @@ body {
     display: flex;
 }
 
-p, a {
-    text-align: center;
-    margin-right: 5%;
-}
-
 .row {
     display: flex;
-    margin: 0 auto;
+
 } 
 
 .rodape {
@@ -53,7 +48,7 @@ border-top: 1px solid white;
 justify-content:center;
 align-items:center;
 color: gray;
-
+gap: 7px;
 }
 
 .msn-logo {
@@ -61,9 +56,22 @@ color: gray;
     margin-bottom: 80%;
 }
 
-.conteudo {
-     margin-bottom: 25%;
+.inscreva-se {
+    text-align: left !important;
+    margin-left: 28%;
 }
+
+button {
+    margin-right: 10%;
+}
+
+
+.entrar-como {
+    text-align: left !important;
+    margin-left: 29%;
+}
+
+
 
 
 
