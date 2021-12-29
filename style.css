@@ -12,6 +12,7 @@ body {
 
 .question {
     margin-left: 80%;
+    bottom: 50%;
 }
 
 .titulo {
@@ -58,6 +59,7 @@ border-top: 1px solid white;
 justify-content:center;
 align-items:center;
 color: gray;
+
 }
 
 .msn-logo {
