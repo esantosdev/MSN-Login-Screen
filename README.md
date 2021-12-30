@@ -1,7 +1,6 @@
 # MSN-Login-Screen
 Tentativa de copiar a tela de LOGIN do Windows Live Messenger <br>
-
-É um mini projeto PRÓPRIO, porém, fique a vontade para clonar. <br>
+É um mini projeto PRÓPRIO, porém, fique a vontade para clonar. <br> Projeto no Vercel: https://msn-login-screen-aybualvsn-kinha66.vercel.app/
 
 Agradeço sua atenção xD
 
